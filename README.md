@@ -1,4 +1,5 @@
 # ahguvuetify
+<<<<<<< HEAD
 
 > ahgu frontend
 
@@ -19,3 +20,6 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+vuetify js for ah gu
+>>>>>>> a9ba8e9ebfd147be1c84af9a8fe46e6128ebbe4f
